@@ -47,7 +47,7 @@ p, label {
 }
 
 div.stButton > button {
-    background-color: #87CEEB;
+    background-color: #20B2AA;
     color: white;
     border-radius: 8px;
     border: none;
@@ -55,7 +55,7 @@ div.stButton > button {
 }
 
 div.stButton > button:hover {
-    background-color: #ADD8E6;
+    background-color: #20B2AA;
     color: white;
 }
 
