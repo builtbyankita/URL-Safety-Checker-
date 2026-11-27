@@ -47,16 +47,17 @@ p, label {
 }
 
 div.stButton > button {
-    background-color: #008000;
-    color: yellow;
+    background-color: #123B70;
+    color: #FFFFFF;
+    font-weight: bold;
     border-radius: 8px;
     border: none;
     padding: 0.6rem 1.5rem;
 }
 
 div.stButton > button:hover {
-    background-color: #008000;
-    color: white;
+    background-color: #1D5A9E;
+    color: #FFFFFF;
 }
 
 .result-card {
