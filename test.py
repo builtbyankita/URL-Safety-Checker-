@@ -73,7 +73,7 @@ div.stButton > button:hover {
 }
 
 .suspicious {
-    color: #C27C00;
+    color: white;
     font-weight: bold;
 }
 
