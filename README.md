@@ -113,3 +113,5 @@ This application uses rule-based URL analysis for educational purposes. A Safe r
 ## 👨‍💻 Author
 
 Developed as a Python-based web development and cybersecurity project.
+
+Project deployment and CI/CD setup completed.
