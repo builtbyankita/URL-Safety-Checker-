@@ -17,7 +17,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.success("CD Test: Website successfully updated from GitHub!")
+
 
 
 create_database()
