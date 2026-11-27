@@ -9,11 +9,16 @@ from database import create_database, save_scan, get_scan_history
 # PAGE CONFIGURATION
 # --------------------------------------------------
 
+
+
 st.set_page_config(
     page_title="URL Safety Checker",
     page_icon="🛡️",
     layout="wide"
 )
+
+st.success("CD Test: Website successfully updated from GitHub!")
+
 
 create_database()
 
