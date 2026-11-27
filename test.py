@@ -48,7 +48,7 @@ p, label {
 
 div.stButton > button {
     background-color: #008000;
-    color: white;
+    color: yellow;
     border-radius: 8px;
     border: none;
     padding: 0.6rem 1.5rem;
