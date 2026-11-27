@@ -47,7 +47,7 @@ p, label {
 }
 
 div.stButton > button {
-    background-color: #123B70;
+    background-color: #87CEEB;
     color: white;
     border-radius: 8px;
     border: none;
