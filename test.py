@@ -55,7 +55,7 @@ div.stButton > button {
 }
 
 div.stButton > button:hover {
-    background-color: #1D5A9E;
+    background-color: #ADD8E6;
     color: white;
 }
 
